@@ -3,5 +3,6 @@
 int main()
 {
     printf("hello world");
+    printf("welcome to github workshop")
     return 0;
 }
